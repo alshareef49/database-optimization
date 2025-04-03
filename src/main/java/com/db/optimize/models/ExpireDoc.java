@@ -14,5 +14,5 @@ public class ExpireDoc {
     private String _id;
 
     @JsonProperty("expireDtTm")
-    private String expire;
+    private String expireDtTm;
 }
